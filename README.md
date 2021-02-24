@@ -1,6 +1,4 @@
-# cards
 
-Quantox Task
 
 ## Getting Started
 
